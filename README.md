@@ -1,7 +1,9 @@
 # RYUU BOOST 12000
 Reverse engineering for Ryuu Boost microcontroller
 
-Side Project im bored asf :P
+Will be using [DSview](https://www.dreamsourcelab.com/download/)
+
+Testing my skills again Xruzen is back goist <3
 
 # Disclaimers/Hazards
 Disposable vapes generally use Li-ion batteries without any protection circuitry. Short circuits could dissipate uncontrolled amounts of power, causing personal injury and/or property damage. Any work done on these vapes is done at your own risk.
